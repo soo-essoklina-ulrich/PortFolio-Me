@@ -1,0 +1,29 @@
+.progress-circle {
+    width: 150px;
+    height: 150px;
+    fill: none;
+    stroke-width: 10;
+}
+.progress-circle-bg {
+    stroke: #e5e5e5;
+}
+.progress-circle-bar {
+    stroke: #2f80ed;
+    stroke-linecap: square;
+    animation: progress-animation 2s ease-out forwards;
+}
+@keyframes progress-animation {
+    from {
+        stroke-dasharray: 0 100;
+    }
+    to {
+        stroke-dasharray: 100 100;
+    }
+}
+.progress-circle-text {
+    font-size: 20px;
+    font-weight: bold;
+    fill: #2f80ed;
+    text-anchor: middle;
+    dominant-baseline: middle;
+}

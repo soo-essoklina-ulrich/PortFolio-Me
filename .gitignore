@@ -1,0 +1,3 @@
+### IDE Folder
+This folder contains the project files for the Arduino IDE. The project is configured to use the ESP32 Dev Module board. The project is configured to use the following libraries:
+/.idea

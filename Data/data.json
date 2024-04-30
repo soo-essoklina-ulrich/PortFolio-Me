@@ -1,0 +1,63 @@
+{
+  "programming": [
+    {
+      "name": "Java",
+      "level": 70
+    },
+    {
+      "name": "Python",
+      "level": 60
+    },
+    {
+      "name": "PHP",
+      "level": 50
+    },
+    {
+      "name": "JavaScript",
+      "level": 50
+    },
+    {
+      "name": "HTML",
+      "level": 90
+    },
+    {
+      "name": "CSS",
+      "level": 70
+    }
+  ],
+  "framework": [
+    {
+      "name": "Angular",
+      "level": 60
+    },
+    {
+      "name": "Spring",
+      "level": 70
+    },
+
+    {
+      "name": "Django",
+      "level": 60
+    },
+    {
+      "name": "Laravel",
+      "level": 25
+    },
+    {
+      "name": "Symfony",
+      "level": 50
+    },
+    {
+      "name": "Vue",
+      "level": 25
+    },
+    {
+      "name": "FastAPI",
+        "level": 25
+    },
+    {
+      "name": "Flask",
+      "level": 25
+    }
+  ]
+}

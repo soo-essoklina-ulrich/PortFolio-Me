@@ -1,0 +1,19 @@
+.icons{
+    font-size: 25px;
+}
+
+.linkicon{
+    font-size: 25px;
+}
+
+.iconshi{
+    --bs-text-opacity: 1;
+    color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important;
+    font-size: 25px;
+    margin-right: 10px;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, sans-serif;
+    margin: 0;
+    padding: 10px;
+}
